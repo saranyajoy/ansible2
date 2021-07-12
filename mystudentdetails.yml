@@ -1,0 +1,29 @@
+---
+ - name: a
+   phno: 987
+   email: a@gmail.com
+   address: hyd
+     - streetno: 1
+     - doorno: 23
+     - pincode: 876
+ - name: b
+   phno: 765
+   email: b@gmail.com
+   address: hyd
+     - streetno: 2
+       doorno: 234
+       pincode: 54465
+  - name: c
+    phno: 98987
+    email: c@gmail.com
+    address: hyd
+     - streetno: 3
+       doorno: 23765
+       pincode: 544975
+  - name: D
+    phno: 98967
+    email: D@gmail.com
+    address: hyd
+     - streetno: 12
+       doorno: 2375
+       pincode: 544976
